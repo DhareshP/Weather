@@ -1,7 +1,4 @@
-Name: Dharesh Polishi
-id:IT70
-domain:full stack web development
-Mentor:Sravani Gouni
+
 description:Introducing your very own weather forecast app, designed to be your personalized meteorological companion, tailored to your needs and preferences. This app is not just about delivering weather updates; it's about providing you with a seamless experience that empowers you to make informed decisions and stay ahead of the elements.
 
 At its heart, your weather forecast app boasts a sleek and intuitive interface, designed with user experience in mind. From the moment you launch the app, you're greeted with a visually stunning display of current weather conditions, presented in a way that's easy to understand and engaging to interact with.
